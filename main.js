@@ -1,2 +1,2 @@
-var a = 11;
-var s = 6;
+var b = 12;
+var r = 4;
